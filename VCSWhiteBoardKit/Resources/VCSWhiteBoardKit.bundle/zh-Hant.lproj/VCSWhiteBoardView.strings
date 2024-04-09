@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "清除"; ObjectID = "0Wd-wo-vT7"; */
+"0Wd-wo-vT7.normalTitle" = "清除";
+
+/* Class = "UIButton"; normalTitle = "荧光笔"; ObjectID = "Eht-0q-7AU"; */
+"Eht-0q-7AU.normalTitle" = "熒光筆";
+
+/* Class = "UIButton"; normalTitle = "橡皮擦"; ObjectID = "dHL-E2-Gup"; */
+"dHL-E2-Gup.normalTitle" = "橡皮擦";
+
+/* Class = "UIButton"; normalTitle = "颜色"; ObjectID = "eWS-3b-Ztt"; */
+"eWS-3b-Ztt.normalTitle" = "顏色";
+
+/* Class = "UIButton"; normalTitle = "钢笔"; ObjectID = "gVm-8P-vJh"; */
+"gVm-8P-vJh.normalTitle" = "鋼筆";
+
+/* Class = "UIButton"; normalTitle = "图片"; ObjectID = "sVl-bg-jV0"; */
+"sVl-bg-jV0.normalTitle" = "圖片";

@@ -13,7 +13,7 @@ FOUNDATION_EXTERN NSString *__nonnull const VCSWhiteBoardKitVersion;
 
 //! 引入相关头文件
 #if __has_include(<VCSWhiteBoardKit/VCSWhiteBoardKit.h>)
-
+#import <VCSWhiteBoardKit/VCSWhiteBoardView.h>
 #else
-
+#import "VCSWhiteBoardView.h"
 #endif
