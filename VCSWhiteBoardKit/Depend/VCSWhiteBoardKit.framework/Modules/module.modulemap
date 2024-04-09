@@ -1,0 +1,6 @@
+framework module VCSWhiteBoardKit {
+  umbrella header "VCSWhiteBoardKit.h"
+  export *
+
+  module * { export * }
+}
